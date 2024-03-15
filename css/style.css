@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    background-color: rgb(135, 190, 190);
+    padding-bottom: 20px;
+}
+h1{
+    color: greenyellow;    
+}
+nav{
+    background-image: linear-gradient(to right, lightgreen, rgb(255, 71, 71)) ;
+    padding: 10px 0;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+nav a{
+    color: rgb(38, 97, 117);
+}
