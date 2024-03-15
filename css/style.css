@@ -6,6 +6,8 @@
 #header{
     background-color: rgb(135, 190, 190);
     padding-bottom: 20px;
+    position: sticky;
+    top: 0;
 }
 h1{
     color: greenyellow;    
@@ -15,6 +17,7 @@ nav{
     padding: 10px 0;
     text-align: center;
     font-family: Arial, sans-serif;
+    position: sticky;
 }
 nav li{
     list-style: none;
